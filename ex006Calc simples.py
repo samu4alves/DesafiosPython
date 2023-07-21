@@ -1,0 +1,21 @@
+# PEDIDO DE APRESENTAÇÃO, E SE APRESENTANDO
+print('Para nos conhecermos !')
+nome = input('Qual seu nome ?:')
+print(f'\nOlá, {nome}. Tudo bem ? Me chamo MX04') 
+ss = ('-')
+print(ss * 60)
+print(f'{nome}. Um número, e mostrarei umas contas sobre ele !')
+s = ('=')
+print(s * 53)
+base = int(input('Digite um número?:'))
+dobro = base + base
+triplo = base + base + base
+raiz = base ** (1/2)
+print(f'\nO dobro de {base} é {dobro}')
+print(ss * 51)
+print(f'O triplo de {base} é {triplo}')
+print(ss * 51)
+print(f'A raiz de {base} é {raiz:.2f}')
+print(s * 51)
+print(f'Obrigado por participar, {nome} !')
+print(ss * 51)
