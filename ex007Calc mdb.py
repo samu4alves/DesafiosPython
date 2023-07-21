@@ -1,0 +1,13 @@
+nome = input('Se apresente, por favor ! Qual seu nome estudante?:')
+print(f'Olá, {nome}. Tudo bem ? Me chamo MX04')
+s = ('-')
+print(s * 60)
+print('Vou calcular a média das notas.')
+nota1 = float(input('Primeira nota?:'))
+nota2 = float(input('Segunda nota?:'))
+media = (nota1 + nota2) / 2
+print(f'A média da sua nota é {media}')
+ss = ('=')
+print(ss * 57)
+print(f'Obrigado {nome}, por usar a calculadora de média bimestral !')
+print(ss * 57)
