@@ -1,2 +1,2 @@
 # Exercícios Python
-Neste repositório estará listado exercícios, feitos por mim ao longo da aprendizagem de python no canal do youtube (Curso em video).
+Exercícios, ao longo da aprendizagem de python no (Curso em video).
